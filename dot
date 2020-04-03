@@ -1,0 +1,19 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "window.zoomLevel": 0,
+    "markdown.preview.fontSize": 16,
+    "markdown.preview.lineHeight": 1.8,
+    "remote.SSH.remotePlatform": {
+        "192.168.0.123": "linux"
+    },
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.settings.editor": "json",
+    "workbench.settings.openDefaultSettings": true,
+    "editor.fontSize": 16,
+    "editor.fontFamily": "Source Code Pro",
+    "editor.fontWeight": "600",
+    "debug.console.fontFamily": "Source Code Pro",
+    "debug.console.fontSize": 16,
+    "terminal.integrated.fontWeight": "600",
+    "terminal.integrated.fontSize": 16,
+}
