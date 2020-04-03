@@ -3,9 +3,6 @@
     "window.zoomLevel": 0,
     "markdown.preview.fontSize": 16,
     "markdown.preview.lineHeight": 1.8,
-    "remote.SSH.remotePlatform": {
-        "192.168.0.123": "linux"
-    },
     "workbench.startupEditor": "newUntitledFile",
     "workbench.settings.editor": "json",
     "workbench.settings.openDefaultSettings": true,
